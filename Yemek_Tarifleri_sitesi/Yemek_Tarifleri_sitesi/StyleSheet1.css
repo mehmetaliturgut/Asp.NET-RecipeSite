@@ -1,0 +1,33 @@
+﻿a:link {
+    text-decoration:none;
+    font-size:14px;
+    font-family:'Segoe UI';
+    font-style:normal;
+}
+a:hover{
+    font-size:18px;
+    color:aqua;
+}
+.tb {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    padding: 1.5rem 2rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    width: 90%;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+}
+.tb2 {
+    border:2px solid #456879;
+    border-radius:10px;
+    height:22px;
+    width:230px;
+}
+
+
+
